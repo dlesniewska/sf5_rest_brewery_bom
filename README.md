@@ -1,2 +1,2 @@
 # sf5_rest_brewery_bom
-bom to rule them all
+Spring Boot microservice bom project example
